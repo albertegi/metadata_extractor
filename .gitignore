@@ -9,6 +9,9 @@ __pycache__/
 # MOV extensions
 *.MOV
 
+# HEIC extensions
+*.HEIC
+
 
 # Distribution / packaging
 .Python
