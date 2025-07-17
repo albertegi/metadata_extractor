@@ -1,0 +1,4 @@
+# No Python packages required, just Python standard library
+# Make sure ExifTool is installed on your system:
+# macOS: brew install exiftool
+# Linux: sudo apt install libimage-exiftool-perl
